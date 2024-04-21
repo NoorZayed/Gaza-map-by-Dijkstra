@@ -1,0 +1,603 @@
+143,459
+Jaber,31.583,34.5
+AL-Shati Camp,31.536658362692,34.46199429031121
+Umm Al-Nasr,31.559577406254544, 34.52231290074227
+Beit Lahia,31.55076525469385, 34.50799113579696
+Beit Hanoun,31.538946433008732, 34.53551721162709
+Jabalia,31.52958822933412, 34.47888913970084
+Gaza,31.502407795515452, 34.468445919493234
+Kuba,31.488423322108563, 34.46572458559878
+Juhor ad Dik,31.455162021837264, 34.43707908206031
+Al Ma'ani,31.38776651949603,34.35897486417523
+Al Mawasi,31.347349947264,34.254940890774826
+Al Mughraqa,31.468661128009536,34.41569054587059
+ST.Al Toam cross,31.54502876913482,34.472128747827256
+Al Toam,31.55201782934231,34.48091893021882
+Nuseirat Camp,31.449711814697256, 34.39205958547214
+Bureij,31.438176610764653, 34.40246012934793
+Maghazi,31.42194886619882, 34.38403630880944
+Deir al Balah,31.418018286579407, 34.350457410315265
+Wadi as Salqa,31.39630611481083, 34.36658028244323
+Al Qarara,31.371291628564116, 34.33442137841024
+Zeitoun,31.517475921759292, 34.451353498796266
+Khan Yunis,31.347042721579736, 34.30313168237289
+Abasan al-kabira,31.324288793335647, 34.34242100688191
+Khuza'a,31.30729155158804, 34.359444640849404
+Al Fukhkhari,31.29580110299618, 34.3344400376144
+Rafah,31.296851453264974, 34.24172436656613
+Shokat as Sufi,31.251135117363155, 34.26817146372988
+ST.Al-Fakhari entrance,31.3011927729518,34.317495836842504
+ST.Al-Fakhari Street,31.2806761156132,34.30814123814002
+ST.ALQuba entrance,31.486235113649638,34.45095069982212
+ST.Khan Younes entrance,31.37114330036097,34.33285658645508
+AlQuba,31.4786,34.4658
+ST.AlRashed Main Street,31.541464479620963,34.4650700023806
+ST.Mughraqa main Street,31.463417707390324,34.42641262346061
+ST.Rafah Shati Street,31.303646081607667,34.232799589902996
+ST.Rafah cross,31.26845015703474,34.28627085445548
+ST.Rafah entrance,31.283309531659274,34.25688988394358
+AlSheikh Naseer,31.3374,34.3095
+ST.Um Dhear main Street,31.396623821377318,34.35103997722295
+Um Dhear,31.3991,34.3400
+ST.Um Naser Main Street,31.546714209791098,34.53072350543083
+ST.Um Naser entrance,31.549054045496764,34.52138704661069
+ST.Az Zawayda entrance,31.42861848570567,34.36897209998541
+ST.Az Zawayda main Street,31.428951511541232,34.380550553014686
+ST.Az Zawayda shati Cross,31.43883946165748,34.353087754858244
+Az Zawayda,31.430722768556215,34.364797336109845
+Bani Shila,31.342645933491642,34.32556789960881
+ST.Bani Shila Street,31.35668704067035,34.32830525977381
+ST.Bani Shila entrance,31.343937421628507,34.31541919889888
+ST.Beit Hanoun entrance,31.536613161692543,34.52479746828105
+Al Qarya as Suwaydiya,31.321478289316186, 34.217654536563174
+ST.Beit Lahya back Street,31.556099544704914,34.49394753817419
+ST.Beit Lahya cross,31.529036658361132,34.51887143113127
+ST.Breij main Street,31.443381494902745,34.39954442066024
+ST.Der Albalah main Street,31.40951730932429,34.36133966012611
+ST.Der Albalah shati Cross,31.42556721217303,34.33895325637646
+ST.Gaza Shati cross,31.523276088788695,34.44949820894652
+ST.Gaza entrance,31.500686257127786,34.470215824256925
+'Abasan Al Jadida,31.34279941906745, 34.343649695950596
+ST.Jabalia Cross,31.521229921097056,34.49866903175701
+ST.Jabalia back entrance,31.539815733319227,34.48606256629413
+ST.Abasan Al-kabera entrance,31.322354824209302,34.339885798880886
+ST.1,31.54949657001406, 34.49739623800731
+ST.2,31.547958895805177, 34.500932799218816
+ST.3,31.543161189433228, 34.514088446395235
+ST.4,31.538332479541406, 34.50795359531407
+ST.5,31.529532129470667, 34.51466731059814
+ST.6,31.548820648246473, 34.52848666452644
+ST.7,31.524419307425028, 34.49973437152807
+ST.8,31.522389026874496, 34.495836936723556
+ST.9,31.559419325067488, 34.48241243914426
+ST.10,31.553453641847216, 34.478515004365825
+ST.11,31.547487577350275, 34.47505061787294
+ST.12,31.535554303979044, 34.48638204868586
+ST.13,31.539491222528167, 34.48219591500695
+ST.14,31.539491222565264, 34.46501833201574
+ST.15,31.54613439614539, 34.45484169669287
+ST.16,31.53308802811449, 34.45525853017444
+ST.17,31.525638660640826, 34.46375533487465
+ST.18,31.533605323234788, 34.47298043712058
+ST.19,31.527811454200453, 34.46654714213329
+ST.20,31.525949062815407, 34.469338949391926
+ST.21,31.50913885103371, 34.45798417166132
+ST.22,31.514708020715936, 34.45063509811599
+ST.23,31.520711909975788, 34.44206117897978
+ST.24,31.54236934977578, 34.45105752325247
+ST.25,31.527790066701613, 34.437705200363276
+ST.26,31.521883886608514, 34.43214774703093
+ST.27,31.518499969227037, 34.43561213356915
+ST.28,31.512743030861692, 34.444784074419275
+ST.29,31.51126628302623, 34.44752671372615
+ST.30,31.511802508319914, 34.47831218732672
+ST.31,31.502101503851627, 34.46636628873646
+ST.32,31.504156571266087, 34.45866608054967
+ST.34,31.50234545505021, 34.457877091541796
+ST.35,31.50886544041384, 34.43945417590354
+ST.36,31.514200491625786, 34.43130945882157
+ST.37,31.51673572298813, 34.42797142842124
+ST.38,31.514279102239847, 34.42583800648207
+ST.39,31.51195574540731, 34.42924974120073
+ST.40,31.506780583061083, 34.436639413183535
+ST.41,31.496379178752345, 34.45654753210382
+ST.42,31.491080039287684, 34.45250800950021
+ST.43,31.505809276714306, 34.41774508224304
+ST.44,31.491371373282366, 34.45246059845075
+ST.45,31.471082094338822, 34.45913665923868
+ST.46,31.479881556549785, 34.44220374136619
+ST.47,31.502756285778467, 34.41458912618896
+ST.48,31.494715299192762, 34.42149654421265
+ST.49,31.46509162791353, 34.42675925402636
+ST.50,31.444900208571887, 34.399812244910486
+ST.51,31.439549489167607, 34.39297340869339
+ST.52,31.434681910662462, 34.400377767075
+ST.53,31.428884873526435, 34.379696704769415
+ST.54,31.432613484756107, 34.37453793048715
+ST.55,31.42843417473812, 34.36670877222643
+ST.56,31.432375603437336, 34.361584367205694
+ST.57,31.439087967752368, 34.35241817794324
+ST.58,31.431105216093705, 34.3828863101165
+ST.59,31.420943245479986, 34.386928094358204
+ST.60,31.42660944977705, 34.37740103150275
+ST.61,31.4256328265734, 34.33857889075119
+ST.62,31.40970159129877, 34.35986490151298
+ST.63,31.393692745923456, 34.30002882198236
+ST.64,31.385299681345163, 34.34093486746764
+ST.65,31.390998757563406, 34.3456688015149
+ST.66,31.383123579189707, 34.35355869159366
+ST.67,31.372041716156634, 34.33160348188121
+ST.68,31.324353488218776, 34.314494112627834
+ST.69,31.3443859724221, 34.30293790221698
+ST.70,31.34204020805073, 34.30216542601702
+ST.71,31.340134231430724, 34.30577031495018
+ST.72,31.343506317637345, 34.31401006108312
+ST.73,31.34289987673651, 34.32520315231308
+ST.74,31.323199292626718, 34.34691187013968
+ST.75,31.309216217409528, 34.364598655925285
+ST.76,31.33753997888725, 34.30977875686639
+ST.77,31.31025986638507, 34.281476737806734
+ST.78,31.33131611080126, 34.23035684782935
+ST.79,31.29786065666813, 34.24403429029882
+ST.80,31.28891783223679, 34.263593639003226
+ST.81,31.279801473108748, 34.254746034595485
+ST.82,31.29492943691726, 34.31527504063381
+ST.Abasan Al-kabera entrance,Abasan al-kabira
+ST.Abasan Al-kabera entrance,Khuza'a
+ST.Abasan Al-kabera entrance,ST.Bani Shila entrance
+Abasan al-kabira,ST.Abasan Al-kabera entrance
+ST.Al-Fakhari entrance,Al Fukhkhari
+ST.Al-Fakhari entrance,AlSheikh Naseer
+ST.Al-Fakhari entrance,ST.Al-Fakhari Street
+ST.Al-Fakhari Street,ST.Al-Fakhari entrance
+ST.Al-Fakhari Street,ST.Rafah cross
+Al Fukhkhari,ST.Al-Fakhari entrance
+AL-Shati Camp,ST.AlRashed Main Street
+AL-Shati Camp,ST.Gaza Shati cross
+Umm Al-Nasr,Beit Lahia
+ST.ALQuba entrance,AlQuba
+ST.ALQuba entrance,ST.Gaza entrance
+ST.ALQuba entrance,ST.Mughraqa main Street
+Al Qarya as Suwaydiya,ST.Rafah Shati Street
+Beit Lahia,ST.1
+Beit Lahia,Umm Al-Nasr
+Beit Lahia,ST.2
+Beit Lahia, ST.10
+Al Qarya as Suwaydiya,Al Mawasi
+Al-Qarara,ST.Al-Qarara main Street
+ST.Al-Qarara main Street,Al Qarara
+ST.Al-Qarara main Street,ST.Um Dhear main Street
+ST.Al-Qarara main Street,ST.Khan Younes entrance
+AlQuba,ST.ALQuba entrance
+Al Ma'ani,ST.Um Dhear main Street
+Al Mawasi,Al Qarya as Suwaydiya
+Al Mawasi,ST.Der Albalah shati Cross
+Al Mughraqa,ST.Mughraqa main Street
+ST.Al Toam cross,Al Toam
+ST.Al Toam cross,ST.AlRashed Main Street
+ST.Al Toam cross,Jabalia
+Al Toam,ST.Al Toam cross
+Al Toam,ST.Beit Lahya back Street
+Bureij,ST.Breij main Street
+AlSheikh Naseer,ST.Bani Shila entrance
+AlSheikh Naseer,Khan Yunis
+AlSheikh Naseer,ST.Al-Fakhari entrance
+ST.AlRashed Main Street,AL-Shati Camp
+ST.AlRashed Main Street,ST.Al Toam cross
+ST.Az Zawayda entrance,Az Zawayda
+ST.Az Zawayda entrance,ST.Az Zawayda main Street
+ST.Az Zawayda main Street,ST.Az Zawayda entrance
+ST.Az Zawayda main Street,ST.Breij main Street
+ST.Az Zawayda main Street,ST.Der Albalah main Street
+ST.Az Zawayda shati Cross,Az Zawayda
+ST.Az Zawayda shati Cross,ST.Der Albalah shati Cross
+ST.Az Zawayda shati Cross,ST.Gaza Shati cross
+Az Zawayda,ST.Az Zawayda main Street
+ST.Bani Shila Street,ST.Khan Younes entrance
+ST.Bani Shila Street,ST.Bani Shila entrance
+ST.Bani Shila entrance,ST.Bani Shila Street
+ST.Bani Shila entrance,Bani Shila
+ST.Bani Shila entrance,AlSheikh Naseer
+ST.Bani Shila entrance,ST.Abasan Al-kabera entrance
+Bani Shila,ST.Bani Shila entrance
+ST.Beit Hanoun entrance,Beit Hanoun
+ST.Beit Hanoun entrance,ST.Beit Lahya cross
+ST.Beit Hanoun entrance,ST.Um Naser Main Street
+Beit Hanoun,ST.Beit Hanoun entrance
+ST.Beit Lahya back Street,Al Toam
+ST.Beit Lahya back Street,Beit Lahia
+ST.Beit Lahya cross,ST.Beit Hanoun entrance
+ST.Beit Lahya cross,Beit Lahia
+ST.Beit Lahya cross,ST.Jabalia Cross
+Beit Lahia,ST.Beit Lahya back Street
+Beit Lahia,ST.Jabalia back entrance
+Beit Lahia,ST.Um Naser entrance
+ST.Breij main Street,Bureij
+ST.Breij main Street,ST.Az Zawayda main Street
+ST.Breij main Street,ST.Mughraqa main Street
+ST.Breij main Street,Nuseirat Camp
+ST.Der Albalah main Street,ST.Az Zawayda main Street
+ST.Der Albalah main Street,Deir al Balah
+ST.Der Albalah main Street,ST.Um Dhear main Street
+ST.Der Albalah shati Cross,Al Mawasi
+ST.Der Albalah shati Cross,ST.Az Zawayda shati Cross
+ST.Der Albalah shati Cross,Deir al Balah
+Deir al Balah,ST.Der Albalah main Street
+Deir al Balah,ST.Der Albalah shati Cross
+ST.Gaza Shati cross,AL-Shati Camp
+ST.Gaza Shati cross,ST.Az Zawayda shati Cross
+ST.Gaza Shati cross,Gaza
+ST.Gaza entrance,ST.ALQuba entrance
+ST.Gaza entrance,Gaza
+ST.Gaza entrance,ST.Jabalia Cross
+Gaza,ST.Gaza Shati cross
+Gaza,ST.Gaza entrance
+Gaza,Jabalia
+ST.Jabalia Cross,ST.Beit Lahya cross
+ST.Jabalia Cross,ST.Gaza entrance
+ST.Jabalia Cross,Jabalia
+Jabalia,ST.AlRashed Main Street
+Jabalia,Gaza
+Jabalia,ST.Jabalia Cross
+Jabalia,ST.Jabalia back entrance
+Juhor ad Dik,ST.Mughraqa main Street
+Khan Yunis,ST.Rafah entrance
+Khan Yunis,AlSheikh Naseer
+Khan Yunis,ST.Khan Younes entrance
+ST.Khan Younes entrance,ST.Bani Shila Street
+ST.Khan Younes entrance,Khan Yunis
+ST.Khan Younes entrance,ST.Al-Qarara main Street
+Khan Yunis,Jaber
+Jaber,Khan Yunis
+ST.Khan Younes entrance,Jaber
+Jaber,ST.Khan Younes entrance
+ST.Rafah entrance,Jaber
+Jaber,ST.Rafah entrance
+Khuza'a,ST.Abasan Al-kabera entrance
+ST.Mughraqa main Street,ST.ALQuba entrance
+ST.Mughraqa main Street,Al Mughraqa
+ST.Mughraqa main Street,ST.Breij main Street
+ST.Mughraqa main Street,Juhor ad Dik
+Nuseirat Camp,ST.Breij main Street
+ST.Rafah Shati Street,Al Qarya as Suwaydiya
+ST.Rafah Shati Street,Rafah
+Rafah,ST.Rafah Shati Street
+Rafah,ST.Rafah entrance
+ST.Rafah cross,ST.Al-Fakhari Street
+ST.Rafah cross,ST.Rafah entrance
+ST.Rafah entrance,ST.Rafah cross
+ST.Rafah entrance,Khan Yunis
+ST.Rafah entrance,Rafah
+Umm Al-Nasr,ST.Um Naser entrance
+ST.Um Dhear main Street,Al Ma'ani
+ST.Um Dhear main Street,ST.Der Albalah main Street
+ST.Um Dhear main Street,Um Dhear
+ST.Um Dhear main Street,ST.Al-Qarara main Street
+Um Dhear,ST.Um Dhear main Street
+ST.Um Naser Main Street,ST.Beit Hanoun entrance
+ST.Um Naser Main Street,ST.Um Naser entrance
+ST.Um Naser entrance,Beit Lahia
+ST.Um Naser entrance,Umm Al-Nasr
+ST.Um Naser entrance,ST.Um Naser Main Street
+ST.9,ST.10
+ST.10,ST.9
+ST.10,ST.11
+ST.10,ST.1
+ST.10,Beit Lahia
+ST.1,Beit Lahia
+ST.1,ST.10
+ST.1,ST.2
+ST.1,ST.12
+ST.2,ST.1
+ST.2,Beit Lahia
+ST.2,ST.3
+ST.2,ST.4
+ST.3,ST.2
+ST.3,ST.6
+ST.3,ST.4
+ST.4,ST.2
+ST.4,ST.3
+ST.4,ST.5
+ST.4,Jabalia
+ST.6,Beit Hanoun
+ST.6,ST.5
+ST.5,ST.4
+ST.5,ST.6
+ST.5,Beit Hanoun
+ST.5,ST.7
+Beit Hanoun,ST.5
+Beit Hanoun,ST.6
+ST.11,ST.10
+ST.11,ST.14
+ST.11,ST.13
+ST.13,ST.11
+ST.13,ST.12
+ST.13,ST.18
+ST.12,ST.1
+ST.12,ST.13
+ST.12,Jabalia
+ST.14,ST.11
+ST.14,ST.18
+ST.14,ST.15
+ST.15,ST.14
+ST.15,ST.24
+ST.18,ST.13
+ST.18,ST.14
+ST.18,ST.8
+ST.18,ST.19
+ST.18,Jabalia
+ST.8,ST.18
+ST.8,ST.7
+ST.8,ST.3
+ST.8,Jabalia
+ST.7,ST.8
+ST.7,ST.5
+ST.7,Jabalia
+Jabalia,ST.12
+Jabalia,ST.18
+Jabalia,ST.4
+Jabalia,ST.7
+Jabalia,ST.8
+ST.24,ST.15
+ST.24,ST.16
+ST.24,ST.5
+ST.16,ST.17
+ST.16,ST.19
+ST.16,ST.23
+ST.16,Zeitoun
+ST.16,ST.14
+ST.19,ST.18
+ST.19,ST.20
+ST.19,ST.17
+ST.17,ST.19
+ST.17,Zeitoun
+ST.17,ST.16
+ST.17,ST.22
+ST.20,ST.19
+ST.20,ST.21
+ST.25,ST.24
+ST.25,ST.23
+ST.25,ST.26
+ST.23,ST.25
+ST.23,Zeitoun
+ST.23,ST.22
+ST.23,ST.16
+ST.22,Zeitoun
+ST.22,ST.23
+ST.22,ST.21
+ST.22,ST.17
+ST.22,ST.28
+Zeitoun,ST.23
+Zeitoun,ST.22
+Zeitoun,ST.17
+Zeitoun,ST.16
+ST.21,ST.22
+ST.21,ST.20
+ST.21,ST.29
+ST.21,ST.31
+ST.30,ST.31
+ST.30,ST.8
+ST.30,Gaza
+ST.31,ST.21
+ST.31,ST.34
+ST.31,ST.42
+ST.31,ST.30
+Gaza,ST.30
+Gaza,Kuba
+ST.26,ST.27
+ST.26,ST.25
+ST.26,ST.37
+ST.27,ST.26
+ST.27,ST.36
+ST.27,ST.28
+ST.28,ST.27
+ST.28,ST.35
+ST.28,ST.29
+ST.28,ST.22
+ST.29,ST.28
+ST.29,ST.21
+ST.29,ST.32
+ST.32,ST.34
+ST.32,ST.29
+ST.34,ST.32
+ST.34,ST.41
+ST.34,ST.31
+ST.37,ST.36
+ST.37,ST.26
+ST.37,ST.38
+ST.36,ST.27
+ST.36,ST.37
+ST.36,ST.39
+ST.35,ST.28
+ST.35,ST.40
+ST.38,ST.43
+ST.38,ST.37
+ST.38,ST.39
+ST.39,ST.36
+ST.39,ST.38
+ST.39,ST.40
+ST.40,ST.39
+ST.40,ST.35
+ST.40,ST.41
+ST.41,ST.40
+ST.41,ST.34
+ST.41,ST.42
+ST.42,ST.41
+ST.42,ST.34
+ST.42,ST.31
+ST.42,ST.44
+kuba,Gaza
+kuba,ST.45
+ST.43,ST.38
+ST.43,ST.47
+ST.43,ST.44
+ST.44,ST.43
+ST.44,ST.46
+ST.44,ST.42
+ST.44,ST.45
+ST.45,ST.44
+ST.45,kuba
+ST.45,Juhor ad Dik
+ST.47,ST.43
+ST.47,ST.57
+ST.47,ST.48
+ST.47,ST.43
+ST.48,ST.47
+ST.48,Al Mughraqa
+ST.48,ST.46
+ST.46,ST.49
+ST.46,ST.44
+ST.46,ST.48
+ST.46,Al Mughraqa
+ST.49,ST.46
+ST.49,ST.45
+ST.49,ST.52
+ST.49,Juhor ad Dik
+Juhor ad Dik,ST.49
+Juhor ad Dik,Bureij
+Al Mughraqa,ST.48
+Al Mughraqa,ST.49
+Al Mughraqa,ST.50
+Al Mughraqa,Nuseirat Camp
+ST.57,ST.47
+ST.57,ST.58
+ST.57,ST.56
+ST.56,ST.57
+ST.56,ST.59
+ST.56,Nuseirat Camp
+ST.59,Nuseirat Camp
+ST.59,ST.56
+ST.59,ST.55
+ST.55,ST.59
+ST.55,Nuseirat Camp
+ST.55,ST.53
+ST.53,ST.55
+ST.53,ST.51
+ST.53,Nuseirat Camp
+ST.51,ST.50
+ST.51,ST.53
+ST.51,ST.52
+ST.51,Nuseirat Camp
+ST.50,ST.49
+ST.50,ST.51
+ST.50,Al Mughraqa
+ST.52,Bureij
+ST.52,ST.59
+ST.52,ST.51
+ST.52,ST.49
+Bureij,ST.52
+Bureij,Juhor ad Dik
+Bureij,Maghazi
+Nuseirat Camp,ST.55
+Nuseirat Camp,ST.59
+Nuseirat Camp,ST.56
+Nuseirat Camp,ST.53
+Nuseirat Camp,ST.51
+Nuseirat Camp,Al Mughraqa
+ST.58,ST.57
+ST.58,ST.59
+ST.58,ST.61
+ST.59,ST.52
+ST.59,ST.60
+ST.59,ST.58
+ST.59,Maghazi
+ST.59,ST.66
+Maghazi,Bureij
+Maghazi,ST.59
+Maghazi,Wadi as Salqa
+ST.60,ST.59
+ST.60,ST.62
+ST.60,Deir al Balah
+ST.61,ST.58
+ST.61,ST.62
+ST.61,ST.63
+ST.61,Deir al Balah
+Deir al Balah,ST.61
+Deir al Balah,ST.62
+Deir al Balah,ST.60
+ST.62,ST.61
+ST.62,Deir al Balah
+ST.62,ST.60
+ST.62,ST.65
+ST.63,ST.61
+ST.63,ST.64
+ST.63,ST.78
+ST.64,ST.67
+ST.64,ST.65
+ST.64,ST.63
+ST.65,ST.64
+ST.65,ST.66
+ST.65,ST.62
+ST.66,ST.59
+ST.66,ST.65
+ST.66,Wadi as Salqa
+Wadi as Salqa,ST.66
+Wadi as Salqa,Maghazi
+ST.67,ST.64
+ST.67,Al Qarara
+ST.67,ST.69
+ST.67,ST.72
+Al Qarara,c67
+Al Qarara,Wadi as Salqa
+ST.72,ST.67
+ST.72,ST.71
+ST.72,cST.73
+ST.71,ST.69
+ST.71,cST.70
+ST.71,cST.72
+ST.69,ST.70
+ST.69,ST.71
+ST.69,ST.67
+ST.69,Khan Yunis
+Khan Yunis,ST.69
+ST.73,ST.72
+ST.73,'Abasan Al Jadida
+'Abasan Al Jadida,ST.73
+ST.73,ST.74
+ST.74,ST.73
+ST.74,Abasan al-Kabira
+Abasan al-Kabira,ST.74
+Abasan al-Kabira,Khuza'a
+Abasan al-Kabira,Abasan al-Kabira
+ST.74,ST.75
+ST.75,ST.74
+ST.75,Khuza'a
+Khuza'a,c75
+Khuza'a,Al Fukhkhari
+Khuza'a,Abasan al-Kabira
+Al Fukhkhari,ST.68
+Al Fukhkhari,Khuza'a
+Al Fukhkhari,Abasan al-Kabira
+Al Fukhkhari,Shokat as Sufi
+ST.76,ST.70
+ST.76,Al Fukhkhari
+ST.76,ST.72
+ST.76,ST.68
+ST.76,ST.77
+ST.76,ST.82
+ST.68,ST.76
+ST.68,Al Fukhkhari
+ST.68,ST.80
+ST.78,ST.79
+ST.78,ST.63
+ST.78,Al Qarya as Suwaydiya
+Al Qarya as Suwaydiya,ST.78
+ST.77,ST.76
+ST.77,ST.79
+ST.79,ST.78
+ST.79,ST.77
+ST.79,ST.80
+ST.79,ST.81
+ST.79,Rafah
+Rafah,ST.79
+ST.82,ST.76
+ST.82,ST.81
+ST.80,ST.68
+ST.80,ST.81
+ST.80,ST.79
+ST.81,ST.80
+ST.81,ST.79
+ST.81,ST.82
+ST.81,Shokat as Sufi
+Shokat as Sufi,ST.81
+Shokat as Sufi,Al Fukhkhari
